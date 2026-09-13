@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "fishingrodkey",
+    "name": "Fishing Rod Key",
+    "description": "按住 Z 键切换到鱼竿并抛出，松开后切回第 3 格。",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "authorList": ["YourName"]
+  }
+]
